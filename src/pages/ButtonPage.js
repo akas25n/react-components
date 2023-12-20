@@ -14,7 +14,6 @@ function ButtonPage(){
 
     return (
         <div>
-            <h1>App</h1>
             <div>
                 <Button primary rounded onClick={handleClick} className="mb-5">Click me!!</Button>
             </div>
